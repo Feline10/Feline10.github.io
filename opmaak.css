@@ -1,3 +1,7 @@
+body {
+  background-image: url(achtergrond.jpg);
+  background-size: cover;
+}
 ul {
   list-style-type: none;
   margin: 0;
