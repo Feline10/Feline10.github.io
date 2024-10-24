@@ -32,13 +32,11 @@ li a:hover:not(.active) {
 </style>
 </head>
 <body>
-
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
+ <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="binairstelsel.html">Binaire stelsel</a></li>
+      <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+    </ul>
 
 </body>
 </html>
