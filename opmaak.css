@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 ul {
   list-style-type: none;
   margin: 0;
@@ -29,14 +25,3 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
-</style>
-</head>
-<body>
- <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="binairstelsel.html">Binaire stelsel</a></li>
-      <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
-    </ul>
-
-</body>
-</html>
