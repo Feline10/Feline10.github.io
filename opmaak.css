@@ -30,3 +30,7 @@ li a:hover:not(.active) {
 img {
   padding-right: 40px;
 }
+
+p {
+  tekst-decoration-color: white;
+}
