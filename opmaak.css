@@ -31,7 +31,6 @@ img {
   padding-right: 40px;
 }
 
-p {
-  text-decoration: underline;
-  text-decoration-color: red;
+body {
+    color: white; 
 }
